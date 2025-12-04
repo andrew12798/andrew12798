@@ -3,8 +3,10 @@
 
 ---
 
-## Overview
-Env for isolated builds and prototypes
+## System Status
+<!--STATUS_START-->
+Online. Modules loaded. Sandbox active.
+<!--STATUS_END-->
 
 ---
 
