@@ -5,17 +5,12 @@
 
 ## System Status
 <!--STATUS_START-->
-Local causality secured. No Reading Steiner anomalies detected.Stable. Observing anomalies. Logging results.
+Local causality secured. No Reading Steiner anomalies detected.<br>Stable. Observing anomalies. Logging results.
 <!--STATUS_END-->
 
 ---
 
-## Note
-This workspace is intentionally sparse.  
-Clarity over clutter.  
-Signal over noise.
-
----
-
-## Main Profile
-For production work and public projects, do NOT refer to my primary account
+## ReadMe
+These projects solve problems.<br>
+The problems come back.<br>
+So do I.<br>
