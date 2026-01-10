@@ -5,7 +5,7 @@
 
 ## Status
 <!--STATUS_START-->
-Pilot link established. Neural signals nominal.<br>
+Parameter shift detected. Worldline classification pending.<br>
 <!--STATUS_END-->
 
 ---
