@@ -5,7 +5,7 @@
 
 ## Status
 <!--STATUS_START-->
-Stable. Observing anomalies. Logging results.<br>
+Parameter shift detected. Worldline classification pending.<br>
 <!--STATUS_END-->
 
 ---
