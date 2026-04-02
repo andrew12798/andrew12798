@@ -5,7 +5,7 @@
 
 ## Status
 <!--STATUS_START-->
-Local causality secured. No Reading Steiner anomalies detected.<br>
+Parameter shift detected. Worldline classification pending.<br>
 <!--STATUS_END-->
 
 ---
