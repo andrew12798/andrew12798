@@ -1,4 +1,4 @@
-<h1 align="center">Andrew</h1>
+<h1 align="center">Hello, I am Andrew</h1>
 <p align="center">Placeholder Text; Still Rendering</p>
 
 ---
